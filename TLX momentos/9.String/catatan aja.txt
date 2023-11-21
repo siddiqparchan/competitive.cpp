@@ -1,0 +1,5 @@
+Jadi, ada 
+string.insert(indeks awal, apa yang mau diinsert)
+terus ada
+s.erase(indeks awal, berapa yang mau di erase)
+terus ada'gitulah, lainnya ada di source code kelas terbuka
